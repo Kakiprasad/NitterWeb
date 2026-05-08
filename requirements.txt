@@ -1,0 +1,8 @@
+cloudscraper
+requests
+feedparser
+google-genai
+beautifulsoup4
+deep-translator
+pyTelegramBotAPI
+flask
